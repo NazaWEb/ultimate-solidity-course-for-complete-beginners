@@ -6,7 +6,7 @@ Welcome to the Ultimate Solidity Smart Contract Course for Complete Beginners! M
 
 <p align="center">
   <a href="https://academy.nazaweb.com/ultimate-solidity-smart-contract-course">
-    <img src="https://i.imgur.com/1RvA14r.jpeg" style="max-width:400px; width:100%;">
+    <img src="https://i.imgur.com/fOWj3T6.png" style="max-width:400px; width:100%;">
   </a>
 </p>
 
