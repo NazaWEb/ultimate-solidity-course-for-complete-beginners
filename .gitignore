@@ -1,0 +1,27 @@
+# Ignore build artifacts and compiled contracts
+*.json
+*.abi
+*.bin
+*.dat
+*.swp
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore truffle build directory
+build/
+
+# Ignore compiled contract artifacts
+artifacts/
+
+# Ignore solc output
+*.sol.js
+
+# Ignore coverage reports
+coverage/
+
+# Ignore contract addresses
+addresses.json
+
+# Ignore macOS .DS_Store files
+.DS_Store
