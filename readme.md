@@ -29,7 +29,7 @@ In this course, you will learn:
 - **Final Project:** At the end of the course, you will add user profiles to your Twitter contract, and also add account creation functionality to your DApp.
 
 
-# Lessons 📝
+# Lessons 📝 - Part 1
 # 1 - What is Solidity? 🔥
 
 - [Slides](https://www.canva.com/design/DAFh4_8zGBA/sZF_syLbZA5CeLsxxlTlTg/view#2)
