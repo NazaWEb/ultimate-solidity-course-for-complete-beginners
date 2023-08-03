@@ -29,131 +29,133 @@ In this course, you will learn:
 - **Final Project:** At the end of the course, you will add user profiles to your Twitter contract, and also add account creation functionality to your DApp.
 
 
-
-# What is Solidity? 🔥
+# Lessons 📝
+# 1 - What is Solidity? 🔥
 
 - [Slides](https://www.canva.com/design/DAFh4_8zGBA/sZF_syLbZA5CeLsxxlTlTg/view#2)
 
-# Variables 😉
+# 2 - Build first Smart Contract 🔥
+
+# 3 - Variables 😉
 
 - [Slides](https://www.canva.com/design/DAFh4_8zGBA/sZF_syLbZA5CeLsxxlTlTg/view#21)
 
-# Build a Calculator Contract 💻
+# 4 - Build a Calculator Contract 💻
 
 - [Exercise](Exercises/Calculator-Exercise.sol)
 - [Solution](Solutions/Calculator-Solution.sol)
 - [Slides on Functions](https://www.canva.com/design/DAFh4_8zGBA/sZF_syLbZA5CeLsxxlTlTg/view#31)
 
-# Deploy To Blockchain 🚀
+# 5 - Deploy To Blockchain 🚀
 
 - [Sepolia Faucet](https://sepoliafaucet.com/)
 - [Metamask Installation](https://metamask.io/)
 
-# Variable & Function Visibility
+# 6 - Variable & Function Visibility
 
 - [Slides](https://www.canva.com/design/DAFh4_8zGBA/sZF_syLbZA5CeLsxxlTlTg/view#34)
 
-# Basic Twitter Contract 🐦
+# 7 - Basic Twitter Contract 🐦
 
 - [Exercise](Exercises/BasicTwitter-Exercise.sol)
 - [Solution](Solutions/BasicTwitter-Solution.sol)
 
-# Solidity Mappings 🗺️
+# 8 - Solidity Mappings 🗺️
 
 - [Slides](https://www.canva.com/design/DAFh4_8zGBA/sZF_syLbZA5CeLsxxlTlTg/view#41)
 
-# Complete Basic Twitter Contract 🐦
+# 9 - Complete Basic Twitter Contract 🐦
 
 - [Exercise](Exercises/BasicTwitter-Exercise.sol)
 - [Solution](Solutions/BasicTwitter-Solution.sol)
 
-# Solidity Arrays 🫂
+# 10 - Solidity Arrays 🫂
 
 - [Slides](https://www.canva.com/design/DAFh4_8zGBA/sZF_syLbZA5CeLsxxlTlTg/view#45)
 
-# Get an Array of Tweets
+# 11 - Get an Array of Tweets
 
 - [Exercise](Exercises/BasicTwitter-Exercise.sol)
 - [Solution](Solutions/BasicTwitter-Solution.sol)
 
-# Solidity Structs 🚗
+# 12 - Solidity Structs 🚗
 
 - [Slides](https://www.canva.com/design/DAFh4_8zGBA/sZF_syLbZA5CeLsxxlTlTg/view#51)
 
-# Add Structs to Twitter 👋
+# 13 - Add Structs to Twitter 👋
 
 - [Exercise](Exercises/Twitter-Struct-Exercise.sol)
 - [Solution](Solutions/Twitter-Struct-Solution.sol)
 
-# Solidity Require Statement 
+# 14 - Solidity Require Statement 
 
 - [Slides](https://www.canva.com/design/DAFh4_8zGBA/sZF_syLbZA5CeLsxxlTlTg/view#54)
 
-# Limit Tweet Length with Require
+# 15 - Limit Tweet Length with Require
 
 - [Exercise](Exercises/Twitter-Require-Exercise.sol) 
 - [Solution](Solutions/Twitter-Require-Solution.sol)
 
-# Solidity Modifiers
+# 16 - Solidity Modifiers
 
 - [Slides](https://www.canva.com/design/DAFh4_8zGBA/sZF_syLbZA5CeLsxxlTlTg/view#57)
 - [Exercise](Exercises/Modifiers-Exercise.sol)
 - [Solution](Solutions/Modifiers-Solution.sol)
 
-# Add Custom Modifier to Twitter
+# 17 - Add Custom Modifier to Twitter
 
 - [Exercise](Exercises/Twitter-Modifier-Exercise.sol)
 - [Solution](Solutions/Twitter-Modifier-Solution.sol)
 
-# Add Likes To Twitter Contract ❤️
+# 18 - Add Likes To Twitter Contract ❤️
 
 - [Exercise](Exercises/Twitter-AddLike-Exercise.sol)
 - [Solution](Solutions/Twitter-AddLike-Solution.sol)
 
-# Deploy Twitter Contract to Sepolia 🚀
+# 19 - Deploy Twitter Contract to Sepolia 🚀
 
 - [Sepolia Faucet](https://sepoliafaucet.com/)
 - Use the Twitter Contract from last exercise
 
-# Solidity Events 📆
+# 20 - Solidity Events 📆
 
 - [Slides](https://www.canva.com/design/DAFh4_8zGBA/sZF_syLbZA5CeLsxxlTlTg/view#62)
 - [Exercise](Exercises/Events-Exercise.sol)
 - [Solution](Solutions/Events-Solution.sol) 
 
-# Add Event to Twitter Smart Contract 🐦
+# 21 - Add Event to Twitter Smart Contract 🐦
 
 - [Exercise](Exercises/Twitter-AddEvent-Exercise.sol)
 - [Solution](Solutions/Twitter-AddEvent-Solution.sol)
 
-# Implement Twitter Contract into a Twitter DAPP 🔥
+# 22 - Implement Twitter Contract into a Twitter DAPP 🔥
 
 - [Exercise](https://codesandbox.io/s/twitter-dapp-exercise-d2ntdy)
 - [Solution](https://codesandbox.io/s/twitter-dapp-solution-2ptz3u)
 
-# Solidity Loops ➿
+# 23 - Solidity Loops ➿
 
 - [Slides](https://www.canva.com/design/DAFh4_8zGBA/sZF_syLbZA5CeLsxxlTlTg/view#69) 
 - [Exercise](Exercises/Loops-Exercise.sol)
 - [Solution](Solutions/Loops-Solution.sol)
 
-# Get Total Likes in Twitter Contract 🐦
+# 24 - Get Total Likes in Twitter Contract 🐦
 
 - [Exercise](Exercises/Twitter-GetTotalLikes-Exercise.sol)
 - [Solution](Solutions/Twitter-GetTotalLikes-Solution.sol)
 
-# Solidity Inheritance 💌
+# 25 - Solidity Inheritance 💌
 
 - [Slides](https://www.canva.com/design/DAFh4_8zGBA/sZF_syLbZA5CeLsxxlTlTg/view#75)
 - [Exercise](Exercises/Inheritance-Exercise.sol)
 - [Solution](Solutions/Inheritance-Solution.sol)
 
-# Inherit Ownable from OpenZeppelin 
+# 26 - Inherit Ownable from OpenZeppelin 
 
 - [Exercise](Exercises/Twitter-Inheritance-Exercise.sol)
 - [Solution](Solutions/Twitter-Inheritance-Solution.sol)
 
-# Contract to Contract Interaction
+# 27 - Contract to Contract Interaction
 
 - [Slides](https://www.canva.com/design/DAFh4_8zGBA/sZF_syLbZA5CeLsxxlTlTg/view#80)
 - [Exercise - User](Exercises/Twitter-Inheritance-Exercise.sol)
@@ -161,14 +163,14 @@ In this course, you will learn:
 - [Solution - User](Solutions/Interaction-Solution-User.sol)
 - [Solution - Game](Solutions/Interaction-Solution-Game.sol)
 
-# Add User Profile To Twitter Contract 🧑‍🦲
+# 28 - Add User Profile To Twitter Contract 🧑‍🦲
 
 - [Exercise - User](Exercises/Twitter-Interaction-Exercise-User.sol)
 - [Exercise - Main](Exercises/Twitter-Interaction-Exercise-Main.sol)
 - [Solution - User](Solutions/Twitter-Interaction-Solution-User.sol)
 - [Solution - Main](Solutions/Twitter-Interaction-Solution-Main.sol)
 
-# Add Account Creation to Twitter DAPP 🔥
+# 29 - Add Account Creation to Twitter DAPP 🔥
 
 - [Exercise](https://codesandbox.io/s/react-twitter-exercise-r46qgv?file=/src/App.js:1445-1450)
 - [Solution](https://codesandbox.io/s/react-twitter-solution-dzyjd6)
